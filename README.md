@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ciao,I'm Ishmeet Kaur Aubi 👋
 
-<!--
-**ishmeet-aubi/ishmeet-aubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a project Stormy Cosmetics.
+- 🌱 I’m currently learning Merk Stack Technologies.
+- 👯 I’m looking to collaborate on cool Merk Stack Projects.
+- 🤔 I’m looking for help with enhancing my skills as a backend developer. 
+- 💬 Ask me about Python and tech related stuff.
+- 📫 How to reach me:  [Linkedin: @ishmeet-kaur-aubi-50065a139](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
+- 😄 Pronouns: She/ Her
+- ⚡ Fun fact: I listen to music of different languages when I code.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github-readme-stats.vercel.app/api?username=ishmeet-aubi&&show_icons=true&title_color=ffffff&icon_color=FFFFF0&text_color=daf7dc&bg_color=00FFFF
 -->
