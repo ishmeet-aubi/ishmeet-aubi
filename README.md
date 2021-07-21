@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on cool Merk Stack Projects.
 - 🤔 I’m looking for help with enhancing my skills as a backend developer. 
 - 💬 Ask me about Python and tech related stuff.
-- 📫 How to reach me: [Linkedin: @ishmeet-kaur-aubi-50065a139\](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
+- 📫 How to reach me:  [Linkedin: @ishmeet-kaur-aubi-50065a139\](%28%28https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/%29%29)
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I listen to music of different languages when I code.
 
