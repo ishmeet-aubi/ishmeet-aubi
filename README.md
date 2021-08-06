@@ -27,6 +27,15 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/django/django.png" />
 
+
+
+<h2> My GitHub Stats </h2>
+
+<p align="left"> <a href="https://github.com/ishmeet-aubi"><img src="https://github-profile-trophy.vercel.app/?username=ishmeet-aubi&theme=onedark" alt="ishmeet-aubi" /></a> </p> 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmeet-aubi&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="ishmeet-aubi" /></p>
+
+
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ishmeet-aubi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
