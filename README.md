@@ -7,7 +7,7 @@
 - 📫 How to reach me:  [Linkedin: @ishmeet-kaur-aubi-50065a139](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I listen to music of different languages when I code and I love interacting with different people.
-- GOAL: "Mastering Backend by the end of this year"
+- GOAL: "Mastering Backend by the end of this year..."
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
