@@ -29,7 +29,7 @@
 
 
 
-<h2> My GitHub Stats </h2>
+<h2> GitHub Stats </h2>
 
 <p align="left"> <a href="https://github.com/ishmeet-aubi"><img src="https://github-profile-trophy.vercel.app/?username=ishmeet-aubi&theme=onedark" alt="ishmeet-aubi" /></a> </p> 
 
