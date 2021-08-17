@@ -27,7 +27,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/django/django.png" />
 
-
+<br>
+<br>
 
 <h2> GitHub Stats </h2>
 
