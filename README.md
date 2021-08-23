@@ -48,4 +48,4 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=ishmeet-aubi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">  
 <br>
 <br>
-<img src="https://camo.githubusercontent.com/e9f652569c83850f3919dfc2ac54d264333791d1024a9412aeba3b844c0ea777/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d73616761726b6861726162652e76697369746f725f636f756e74">  
+<img Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/ishmeet-aubi/count.svg)
