@@ -48,4 +48,4 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=ishmeet-aubi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">  
 <br>
 <br>
-<img Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/ishmeet-aubi/count.svg)
+Visitor Count: <img align="center" src="https://profile-counter.glitch.me/ishmeet-aubi/count.svg" alt="ishmeet-aubi" />
