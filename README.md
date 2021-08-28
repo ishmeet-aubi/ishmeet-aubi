@@ -1,7 +1,7 @@
 ### Ciao,I'm Ishmeet Kaur Aubi 👋
 
 - 🔭 I’m currently working on a project Stormy Cosmetics.
-- 🌱 I’m currently learning Merk Stack Technologies.
+- 🌱 I’m currently learning Mern Stack Technologies.
 - 👯 I’m looking to collaborate on Mern Stack Projects.
 - 🤔 I’m looking for help with enhancing my skills as a backend developer. 
 - 📫 How to reach me:  [Linkedin: @ishmeet-kaur-aubi-50065a139](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
