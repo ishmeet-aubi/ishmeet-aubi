@@ -1,4 +1,4 @@
-<img src="header.svg"></img>
+<img src="header-i.svg"></img>
 
 - 🔭 I’m currently working on a project Stormy Cosmetics.
 - 👯 I’m looking to collaborate on Mern Stack Projects.
