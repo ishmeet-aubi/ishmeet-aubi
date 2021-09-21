@@ -1,9 +1,9 @@
-### Ciao,I'm Ishmeet Kaur Aubi 👋
+<img src="header.svg"></img>
 
 - 🔭 I’m currently working on a project Stormy Cosmetics.
 - 👯 I’m looking to collaborate on Mern Stack Projects.
-- 🤔 I’m looking for help with enhancing my skills as a backend developer. 
-- 📫 How to reach me:  [Linkedin: @ishmeet-kaur-aubi-50065a139](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
+- 🤔 I’m looking for help with enhancing my skills as a backend developer.
+- 📫 How to reach me: [Linkedin: @ishmeet-kaur-aubi-50065a139](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I listen to music of different languages when I code and I love interacting with different people.
 - GOAL: "Mastering Backend by the end of this year..."
@@ -31,10 +31,9 @@
 
 <h2> GitHub Stats </h2>
 
-<p align="left"> <a href="https://github.com/ishmeet-aubi"><img src="https://github-profile-trophy.vercel.app/?username=ishmeet-aubi&theme=onedark" alt="ishmeet-aubi" /></a> </p> 
+<p align="left"> <a href="https://github.com/ishmeet-aubi"><img src="https://github-profile-trophy.vercel.app/?username=ishmeet-aubi&theme=onedark" alt="ishmeet-aubi" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmeet-aubi&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="ishmeet-aubi" /></p>
-
 
 <br>
 <br>
