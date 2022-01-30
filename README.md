@@ -6,7 +6,6 @@
 - 📫 How to reach me: [Linkedin: @ishmeet-kaur-aubi-50065a139](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I listen to music of different languages when I code and I love interacting with different people.
-- GOAL: "Mastering Backend by the end of this year..."
 
 - while (true){
         googling for the basic research and then advance &#x1f62c;
