@@ -47,4 +47,4 @@ const Ishmeet = {
    <a href="https://www.linkedin.com/in/ishmeet-kaur-50065a139/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- <a href="https://open.spotify.com/user/nl8l3a15fcwt16ziq91rp82eq?si=8350bf9e28684985" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
 
-   </div> -->
+   </div>
