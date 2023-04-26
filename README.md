@@ -1,16 +1,17 @@
-<img src="header-i.svg"></img>
-
-- 🔭 I’m currently working on a project Stormy Cosmetics.
-- 👯 I’m looking to collaborate on Mern Stack Projects.
-- 🤔 I’m looking for help with enhancing my skills as a backend developer.
-- 📫 How to reach me: [Linkedin: @ishmeet-kaur-aubi-50065a139](https://www.linkedin.com/in/ishmeet-kaur-aubi-50065a139/)
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I listen to music of different languages when I code and I love interacting with different people.
-
-- while (true){
-        googling for the basic research and then advance &#x1f62c;
-        }; 
-
+<div class="background: ;">
+const Ishmeet = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML/CSS, Python],
+  main_tools: [React, Redux, Nextjs, Node, Vue, Nest, Material_UI],
+  learning: [Blockchain tech],
+  techCommunities: {
+                        github: "https://github.com/ishmeet-aubi",
+                        leetcode: "https://leetcode.com/ishmeet-aubi/",
+                        hackerrank: "https://www.hackerrank.com/ishmeet-aubi",
+                      },
+ goal: "Learning and developing Blockchain tech"
+}
+</div>
 <!-- ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,24 +30,3 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/django/django.png" /> -->
 
-<br>
-<br>
-
-<h2> GitHub Stats </h2>
-
-<p align="left"> <a href="https://github.com/ishmeet-aubi"><img src="https://github-profile-trophy.vercel.app/?username=ishmeet-aubi&theme=onedark" alt="ishmeet-aubi" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmeet-aubi&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="ishmeet-aubi" /></p>
-
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ishmeet-aubi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<br>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmeet-aubi&theme=highcontrast">
-<br>
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=ishmeet-aubi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">  
-<br>
-<br>
-Visitor Count: <img align="center" src="https://profile-counter.glitch.me/ishmeet-aubi/count.svg" alt="ishmeet-aubi" />
