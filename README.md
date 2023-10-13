@@ -2,7 +2,7 @@
 const Ishmeet = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML/CSS, Python],
-  main_tools: [React, Redux, Nextjs, Node, Vue, Nest, Material_UI],
+  main_tools: [React, Redux, Nextjs, Node, Vue, Nest, Material_UI, Web Socket],
   learning: [Blockchain tech],
   techCommunities: {
                         github: "https://github.com/ishmeet-aubi",
